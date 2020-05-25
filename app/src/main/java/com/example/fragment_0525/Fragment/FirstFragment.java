@@ -32,6 +32,7 @@ public class FirstFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 String input = binding.messageEdt.getText().toString();
+                binding.myText.setText(input);
             }
         });
     }

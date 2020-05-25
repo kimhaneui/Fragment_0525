@@ -14,6 +14,5 @@
             android:layout_height="200dp"
             class="com.example.fragment_0525.Fragment.FirstFragment"/>
 
-
     </LinearLayout>
 </layout>
